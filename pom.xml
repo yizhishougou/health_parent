@@ -33,7 +33,9 @@
         <jedis.version>2.9.0</jedis.version>
         <quartz.version>2.2.1</quartz.version>
         <curator-framework.version>4.0.1</curator-framework.version>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
+
     <!-- 依赖管理标签  必须加 -->
     <dependencyManagement>
         <dependencies>
